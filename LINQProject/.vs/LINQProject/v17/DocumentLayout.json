@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LINQProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}|LINQProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linqproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}|LINQProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\companydb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\companydb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DDBEC-0183-4258-B538-7B5DE28909D5}|..\\LinkToSQLProject\\LinkToSQLProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linktosqlproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}|LINQProject.csproj|c:\\users\\hp\\desktop\\linq in c#\\linqproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}|LINQProject.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form2.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form2.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:49:44.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LINQProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LINQProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:29:22.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form3.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form3.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form3.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:59:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form4.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form4.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form4.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form4.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:49:22.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form4.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form4.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:28:57.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form3.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:26:22.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Program.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:01:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:42:51.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form1.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:27:46.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form1.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:19:52.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\LinkToSQLProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:19:47.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyDB.designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\CompanyDB.designer.cs",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\CompanyDB.designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\CompanyDB.designer.cs",
+              "RelativeToolTip": "..\\LinkToSQLProject\\CompanyDB.designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAiwLgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:06:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyDB.dbml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\CompanyDB.dbml",
+              "RelativeDocumentMoniker": "..\\LinkToSQLProject\\CompanyDB.dbml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LinkToSQLProject\\CompanyDB.dbml",
+              "RelativeToolTip": "..\\LinkToSQLProject\\CompanyDB.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2026-01-06T12:43:34.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LINQProject\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\LINQ in C#\\LINQProject\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T11:14:34.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

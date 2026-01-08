@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQProject", "LINQProject.csproj", "{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkToSQLProject", "..\LinkToSQLProject\LinkToSQLProject.csproj", "{F00DDBEC-0183-4258-B538-7B5DE28909D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF40C875-4AF4-4E0E-9454-FD63C328D2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00DDBEC-0183-4258-B538-7B5DE28909D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00DDBEC-0183-4258-B538-7B5DE28909D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00DDBEC-0183-4258-B538-7B5DE28909D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00DDBEC-0183-4258-B538-7B5DE28909D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8378772-A8DC-43CB-BBE6-BA540B0F9784}
+	EndGlobalSection
+EndGlobal

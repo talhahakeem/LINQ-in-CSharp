@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\bin\Debug\net8.0\LINQProject.exe
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\bin\Debug\net8.0\LINQProject.deps.json
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\bin\Debug\net8.0\LINQProject.runtimeconfig.json
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\bin\Debug\net8.0\LINQProject.dll
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\bin\Debug\net8.0\LINQProject.pdb
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.dll
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\refint\LINQProject.dll
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.pdb
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\LINQProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\LINQ in C#\LINQProject\obj\Debug\net8.0\ref\LINQProject.dll
