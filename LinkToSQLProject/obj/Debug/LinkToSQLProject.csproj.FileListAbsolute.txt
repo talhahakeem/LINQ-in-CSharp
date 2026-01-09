@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\bin\Debug\LinkToSQLProject.exe.config
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\bin\Debug\LinkToSQLProject.exe
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\bin\Debug\LinkToSQLProject.pdb
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.Form1.resources
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.Properties.Resources.resources
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.exe
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.pdb
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.exe.config
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.Form2.resources
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.Form3.resources
+C:\Users\HP\Desktop\LINQ in C#\LinkToSQLProject\obj\Debug\LinkToSQLProject.Form4.resources
